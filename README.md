@@ -9,4 +9,4 @@
     🌱 Rust • Java
     🎮 Video Games • Anime • Art
 </pre>
-<img src="https://github.com/SSSAccount/SSSAccount/blob/f0c6ac8d79b9a375b376cf7aac4637e7fd4878ec/assets/lain-iwakura-rolling.gif" height="150"/>
+<img src="https://github.com/SSSAccount/SSSAccount/blob/f0c6ac8d79b9a375b376cf7aac4637e7fd4878ec/assets/lain-iwakura-rolling.gif" height="100"/>
