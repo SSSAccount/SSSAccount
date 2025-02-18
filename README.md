@@ -4,7 +4,6 @@
 <img src="https://github.com/SSSAccount/SSSAccount/blob/3764445865c30a5f249b3e8844ee238d2485bc1f/assets/lain_eyes.gif" width="16.75%" alight="right"/>
 <br><br><br>
 <pre>
-    🎓 BSc (Hons) CS @ IIT • University Student
     💻 C • Python • HTML And CSS 
     🌱 Rust • Java
     🎮 Video Games • Anime • Art
